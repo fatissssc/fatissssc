@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Microsoft.
 - 🌱 I’m currently learning Cloud computing.
-- 👯 I’m looking to collaborate on MLSA, Nopalito tech.
-- 🤔 I’m looking for help with 
-- 💬 Ask me about cloud 
-- 📫 How to reach me all my social networks: @fatissssc
+- 👯 I’m looking to collaborate on tech communities.
+- 🤔 I’m looking for help with idk for now.
+- 💬 Ask me about cloud. 
+- 📫 How to reach me all my social networks: @fatissssc.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a smaller kidney xd
--->
+- ⚡ Fun fact: I have a smaller kidney xd.
